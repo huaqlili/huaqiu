@@ -1,17 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Measurement and control technology and instruments at [Southeast University](https://www.seu.edu.cn/english/). 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
+<span class='anchor' id='about-me'></span>
 
-[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1) / [cv](cv.pdf)
+I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in College of Electronic and Information Engineering at [Tongji University](https://en.tongji.edu.cn/). 
+
+Currently, my research topic is 3D computer vision, with a particular focus on 3D object detection for autonomous driving and robot manipulation. (e.g. BEV, OCC)
+
+[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](cv.pdf)
 
 # 📝 Publications 
 
