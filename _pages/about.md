@@ -26,7 +26,11 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/500x300.png' alt="sym" width="30%"></div></div>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field](https://arxiv.org/abs/2310.06275)
@@ -37,3 +41,6 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 -  We introduce a novel Spatially-Varying Expression (SVE) conditioning, encompassing both spatial positional features and global expression information.
 </div>
 </div>
+
+</html>
+
