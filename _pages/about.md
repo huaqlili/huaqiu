@@ -17,7 +17,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
