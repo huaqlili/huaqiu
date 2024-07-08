@@ -28,7 +28,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 24px; color: red">[Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images](https://arxiv.org/abs/2310.06275)</span><br>
+<a href="url" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
 <span style="font-size: 20px;">**Chuanrui Zhang\*** , Yonggen Ling\*, Minglei Lu, Minghan Qin, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)</span><br>
 <span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders/)   [**Paper**](https://xingyoujun.github.io/coders/)   [**Code**](https://xingyoujun.github.io/coders/)</span>
 
