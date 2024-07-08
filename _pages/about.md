@@ -25,20 +25,14 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 [github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](cv.pdf)
 
 # 📝 Publications 
-<html lang="en">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field](https://arxiv.org/abs/2310.06275)
+<span style="font-size: 24px; color: red">[Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images](https://arxiv.org/abs/2310.06275)</span><br>
+<span style="font-size: 20px;">**Chuanrui Zhang\*** , Yonggen Ling\*, Minglei Lu, Minghan Qin, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders/)   [**Paper**](https://xingyoujun.github.io/coders/)   [**Code**](https://xingyoujun.github.io/coders/)</span>
 
-<b>Minghan Qin\*</b>, Yifan Liu\*, Yuelang Xu, Xiaochen Zhao, [Yebin Liu†](https://www.liuyebin.com/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
-
-[**WEBSITE**](https://minghanqin.github.io/AvatarSVE/) <strong><span class='show_paper_citations' data=''></span></strong>
-<p style="font-size: 12px;">-  We introduce a novel Spatially-Varying Expression (SVE) conditioning, encompassing both spatial positional features and global expression information.</p>
+<span style="font-size: 18px;">-  We introduce a novel We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
 
 </div>
 </div>
-
-</html>
-
