@@ -9,8 +9,8 @@
 # Basic Site Settings
 title                    : "Chuanrui Zhang - Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chuanrui Zhang"
+description              : &description "Orienteering CV"
 url                      : https://xingyoujun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xingyoujun/xingyoujun.github.io"
@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
