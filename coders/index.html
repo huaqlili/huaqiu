@@ -53,13 +53,13 @@
       <span class="author-block">
         <a href="https://xingyoujun.github.io/">Chuanrui Zhang</a><sup>1</sup></span>,&nbsp;
       <span class="author-block">
-        <a href="todo">Yonggen Ling</a><sup>2</sup></span>,&nbsp;
+        Yonggen Ling<sup>2</sup></span>,&nbsp;
       <span class="author-block">
-        <a href="todo">Minglei Lu</a><sup>2</sup></span>,&nbsp;
+        Minglei Lu<sup>2</sup></span>,&nbsp;
       <span class="author-block">
         <a href="https://minghanqin.github.io/">Minghan Qin</a><sup>1</sup></span>,&nbsp;<br>
       <span class="author-block">
-        <a href="todo">Haoqian Wang</a><sup>1</sup></span>&nbsp;
+        Haoqian Wang<sup>1</sup></span>&nbsp;
       <span class="author-block">
     </div>
     <div class="mb-4" style="text-align: center;">
@@ -85,7 +85,7 @@
       </a>
 
       <!-- Dataset -->
-      <a href="todo" target="_blank" class="btn btn-dark" role="button">
+      <a href="https://huggingface.co/datasets/xingyoujun/ss3d" target="_blank" class="btn btn-dark" role="button">
         <span class="icon">
           <i class="fa fa-database"></i>
         </span>
@@ -136,7 +136,7 @@
           our network generates stereo-aware features for easier alignment in implicit feature space. 
           During the transformer decoder stage, object queries interact with 3D stereo-aware features, yielding object embeddings. 
           These object embeddings are used to infer the category, pose and shape of objects using corresponding modules, which serve as the final output. 
-          In the Implicit Stereo Matching module, \textbf{CT} denotes coordinate transformer.</figcaption>
+          In the Implicit Stereo Matching module, CT denotes coordinate transformer.</figcaption>
       </figure>
 
       <!-- Comparisons -->
@@ -146,18 +146,27 @@
         <li><a href="https://appsrv.cse.cuhk.edu.hk/~kaichen/stereopose.html">stereopose</a>: The best method on TOD dataset.</li>
       </ul>
       <img src="static/images/comparision_with_sota.png" class="img-fluid w-100 mt-2 mb-3" alt="comparison on TOD dataset" />
-      <!-- <div class="border w-100 mb-4">
+      <div class="border w-100 mb-4">
         <video class="w-100 d-block" autoplay controls muted loop>
-          <source src="todo" type="video/mp4">
+          <source src="static/videos/tod_video.mp4" type="video/mp4">
         </video>
-      </div> -->
+      </div>
 
       <!-- manipulation -->
-      <h2>Robot Manipulation </h2> 
+      <h2>Real World Test</h2> 
       <p>Our Coders can handle everyday objects with various surface properties.</p>
       <div class="border w-100 mb-4">
         <video class="w-100 d-block" autoplay controls muted loop>
-          <source src="todo" type="video/mp4">
+          <source src="static/videos/real_world.mp4" type="video/mp4">
+        </video>
+      </div>
+
+      <!-- manipulation -->
+      <h2>Robot Manipulation </h2> 
+      <p>Our Coders can provide reliable estimation results for robot manipulation.</p>
+      <div class="border w-100 mb-4">
+        <video class="w-100 d-block" autoplay controls muted loop>
+          <source src="static/videos/robot_manipulation.mp4" type="video/mp4">
         </video>
       </div>
 
