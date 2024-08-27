@@ -22,7 +22,7 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 
 Currently, my research topic is 3D computer vision, with a particular focus on 3D object detection for autonomous driving and robot manipulation. (e.g. BEV, OCC)
 
-[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](files/CV_EN.pdf)
+[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](files/CV_chuanruizhang.pdf)
 
 <br>
 
@@ -49,9 +49,9 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/pdf/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
+<a href="https://arxiv.org/abs/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
 <span style="font-size: 18px;">**Chuanrui Zhang\***, Yingshuang Zou\*, Zhuoling Li, Minmin Yi, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/pdf/2408.13770)   [**Code**](#todo)</span>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/abs/2408.13770)   [**Code**](#todo)</span>
 
 <span style="font-size: 18px;">-  We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
 
