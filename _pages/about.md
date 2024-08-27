@@ -28,7 +28,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 # 💻 Experience
 
-- 05/2023~07/2024, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
+- 05/2023~now, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
 
 <br>
 
@@ -46,6 +46,18 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 </div>
 
 # 📄 Preprint Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/pdf/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang\***, Yingshuang Zou\*, Zhuoling Li, Minmin Yi, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/pdf/2408.13770)   [**Code**](#todo)</span>
+
+<span style="font-size: 18px;">-  We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/voxelformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
