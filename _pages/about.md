@@ -18,12 +18,12 @@ redirect_from:
 
 # 🧑 About me
 
-I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/), majoring in Electronic Information (Artificial Intelligence) under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). In Fall 2023, I earned my Bachelor of Engineering in Aircraft Control and Information Engineering from Beihang University.
+I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/), majoring in Electronic Information (Artificial Intelligence) under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). In Fall 2023, I earned my Bachelor of Aircraft Control and Information Engineering from Beihang University.
 
 My work primarily centers on:  
 
 - Controllable Multimodal Generation  
-  ▪ Text-to-image/video Synthesis with Fine-grained Control  
+  ▪ Text-to-image/video Generation with Fine-grained Control  
 - Low-Level Vision  
   ▪ Image Restoration (denoising, super-resolution, enhancement)  
   ▪ Computational Imaging (novel reconstruction paradigms)  
@@ -45,6 +45,8 @@ For future research, I am particularly interested in topics as follows:
 # 💻 Experience
 
 - 10/2024~now, I was a full-time intern at the Alibaba Group, Amap.
+- 09/2023~now, I work in Tsinghua University for a Master's degree of Artificial intelligence.
+- 09/2019~07/2023, I work in Beihang University for a Bachelor's degree of engineering.
 
 <br>
 
