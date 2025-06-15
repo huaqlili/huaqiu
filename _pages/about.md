@@ -18,68 +18,38 @@ redirect_from:
 
 # 🧑 About me
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in College of Electronic and Information Engineering at [Tongji University](https://en.tongji.edu.cn/). 
+I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/), majoring in Electronic Information (Artificial Intelligence) under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). In Fall 2023, I earned my Bachelor of Engineering in Aircraft Control and Information Engineering from Beihang University.
 
-Currently, my research topic is 3D computer vision, with a particular focus on 3D object detection for autonomous driving and robot manipulation. (e.g. BEV, OCC)
+My work primarily centers on:  
 
-**I am looking for a PhD position in Fall, 2025.**
- 
-[github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](files/CV_chuanruizhang.pdf)
+- Controllable Multimodal Generation  
+  ▪ Text-to-image/video Synthesis with Fine-grained Control  
+- Low-Level Vision  
+  ▪ Image Restoration (denoising, super-resolution, enhancement)  
+  ▪ Computational Imaging (novel reconstruction paradigms)  
+- Self-Supervised & Unsupervised Learning  
+  ▪ Representation learning from unlabeled visual data  
 
-<br>
+For future research, I am particularly interested in topics as follows:
 
-# 🔥 News
-* 2024.12:  🎉🎉 1 paper accepted to AAAI 2025 !!!
+▪ Trustworthy Media Generation  
+▪ Visual Editing & Super-Resolution  
+▪ Visual Generation for Embodied AI  
+
+**I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
+
+[Email](mailto:lihuaqiu2025@gmail.com) / [Github](https://github.com/huaqlili) / [CV](../assets/lihuaqiu_cv_202506.pdf) / [Wechat](../images/Wechat.png)
 
 <br>
 
 # 💻 Experience
 
-- 05/2023~now, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
+- 10/2024~now, I was a full-time intern at the Alibaba Group, Amap.
 
 <br>
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](#todo)</span>
-
-<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/transplat.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2408.13770" style="font-size: 22px; color: #483D8B; text-decoration: none">**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang\***, Yingshuang Zou\*, Zhuoling Li, Minmin Yi, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/abs/2408.13770)   [**Code**](https://github.com/xingyoujun/transplat)</span>
-
-<span style="font-size: 18px;">-  We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
-
-</div>
-</div>
-
-# 📄 Preprint Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/voxelformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2304.01054" style="font-size: 22px; color: #483D8B; text-decoration: none">**VoxelFormer: Bird’s-Eye-View Feature Generation based on Dual-view Attention for Multi-view 3D Object Detection**</a><br>
-<span style="font-size: 18px;">Zhuoling Li\*, **Chuanrui Zhang\***, Wei-Chiu Ma, Yipin Zhou, Linyan Huang, Haoqian Wang†, SerNam Lim, Hengshuang Zhao†</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2304.01054)   [**Code**](https://github.com/Lizhuoling/VoxelFormer-public)</span>
-
-<span style="font-size: 18px;">-  We introduce Dual-View Attention, a more effecient cross attention for Multi-view 3D Object Detection.</span>
-
-</div>
-</div>
-
 # 🏆 Honors and Awards
 
-- Scholarship, Tsinghua University, 2023.
-- Excellent Graduates, Shanghai, 2022.
-- Scholarship, Tongji University, 2019-2022.
-- Nation Scholarship, 2018.
+- Scholarship, Tsinghua University, 2025.
+- Excellent Graduates, Beijing and Beihang, 2023.
+- Several Scholarship, Beihang University, 2020-2022.
