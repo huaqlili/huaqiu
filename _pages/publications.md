@@ -26,7 +26,7 @@ Publications
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2502.06432" style="font-size: 22px; color: #483D8B; text-decoration: none">**Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising**</a><br>
-<span style="font-size: 18px;">**Huaqiu Li***, Wang Zhang*, Xiaowan Hu, Tao Jiang, Zikang Chen, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">**Huaqiu Li**\*, Wang Zhang\*, Xiaowan Hu, Tao Jiang, Zikang Chen, Haoqian Wang†</span><br>
 <span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2502.06432)   [**Code**](https://github.com/huaqlili/Prompt-SID)</span>
 
 <span style="font-size: 18px;">-  In this paper, we introduce Prompt-SID, a prompt-learning-based single image denoising framework that emphasizes preserving of structural details. This approach is trained in a self-supervised manner using downsampled image pairs.</span>
@@ -50,7 +50,7 @@ Publications
 <div class='paper-box-text' markdown="1">
 
 <a href="" style="font-size: 22px; color: #483D8B; text-decoration: none">**Measuring and Controlling the Spectral Bias in Self-Supervised Denoising**</a><br>
-<span style="font-size: 18px;">Wang Zhang*, **Huaqiu Li***, Tao Jiang, Zikang Chen, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">Wang Zhang\*, **Huaqiu Li**\*, Tao Jiang, Zikang Chen, Haoqian Wang†</span><br>
 <span style="font-size: 18px;">[**Paper**]()   [**Code**]()</span>
 
 <span style="font-size: 18px;">-  We introduce a Spectral Controlling network (SCNet) to optimize self-supervised denoising of paired noisy images. First, we propose a selection strategy to choose frequency band components for noisy images, to accelerate the convergence speed of training.</span>
