@@ -10,6 +10,18 @@ author_profile: true
 Publications
 ======
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/ldrps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2503.14535" style="font-size: 22px; color: #483D8B; text-decoration: none">**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**</a><br>
+<span style="font-size: 18px;">**Huaqiu Li**, Yong Wang†, Tongwen Huang, Hailang Huang, Haoqian Wang†, Xiangxiang Chu</span><br>
+<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2507.00790)   [**Code**](https://github.com/AMAP-ML/LD-RPS)</span>
+
+<span style="font-size: 18px;">- We propose a novel, dataset-free, and unified approach through recurrent posterior sampling utilizing a pretrained latent diffusion model. Our method incorporates the multimodal understanding model to provide sematic priors for the generative model under a task-blind condition.</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
