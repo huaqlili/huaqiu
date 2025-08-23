@@ -34,7 +34,7 @@ My current research focuses on these topics as follows:
 
 # 💻 Experience
 
-- 10/2024~now, I was a full-time intern at the Alibaba Group, Amap.
+- 10/2024~07/2025, I was a full-time intern at the Alibaba Group, Amap, Machine Learning R&D Department, under the supervision of [Xiangxiang Chu](https://cxxgtxy.github.io/) and [Yong Wang](https://scholar.google.com/citations?hl=en&user=rAtlzLcAAAAJ).
 - 09/2023~now, I work in Tsinghua University for a Master's degree of Artificial intelligence.
 - 09/2019~07/2023, I work in Beihang University for a Bachelor's degree of engineering.
 
