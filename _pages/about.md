@@ -22,7 +22,7 @@ I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International G
 
 My current research focuses on these topics as follows:
 
-▪ Multimodel Condition for Generation 
+▪ Multimodel Condition for Generation  
 ▪ Low-level Vision/Image&Video restoration  
 ▪ Multimodal Joint Generation  
 
@@ -34,6 +34,7 @@ My current research focuses on these topics as follows:
 
 # 💻 Experience
 
+- 09/2025~now, I am a research intern in Alibaba Cloud.
 - 10/2024~07/2025, I was a full-time intern at the Alibaba Group, Amap, Machine Learning R&D Department, under the supervision of [Xiangxiang Chu](https://cxxgtxy.github.io/) and [Yong Wang](https://scholar.google.com/citations?hl=en&user=rAtlzLcAAAAJ).
 - 09/2023~now, I work in Tsinghua University for a Master's degree of Artificial intelligence.
 - 09/2019~07/2023, I work in Beihang University for a Bachelor's degree of engineering.
@@ -42,6 +43,6 @@ My current research focuses on these topics as follows:
 
 # 🏆 Honors and Awards
 
-- Scholarship, Tsinghua University, 2025.
+- National Scholarship, Tsinghua University, 2024-2025.
 - Excellent Graduates, Beijing and Beihang, 2023.
-- Several Scholarship, Beihang University, 2020-2022.
+- Several Scholarship, Beihang University, 2019-2023.
