@@ -23,10 +23,9 @@ I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International G
 My current research focuses on these topics as follows:
 
 ▪ Multimodel Condition for Generation  
-▪ Low-level Vision/Image&Video restoration  
-▪ Multimodal Joint Generation  
+▪ Low-level Vision/Image&Video restoration    
 
-**I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
+**I am planning to commence my PhD studies in the ECE department at HKUST in the Fall 2026, under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).** 
 
 [Email](mailto:lihuaqiu2025@gmail.com) / [Github](https://github.com/huaqlili) / [CV](../assets/lihuaqiu_cv_202506.pdf) / [Wechat](../images/Wechat.png)
 
