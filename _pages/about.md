@@ -27,7 +27,7 @@ My research interests lie in computer vision and generative AI, with a particula
 
 **I am planning to commence my PhD studies in the ECE department at the Hong Kong University of Science and Technology (HKUST) in Fall 2026, under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).** 
 
-[Email](mailto:lihuaqiu2025@gmail.com) / [GitHub](https://github.com/huaqlili) / [CV](../assets/lihuaqiu_cv_202506.pdf) / [WeChat](../images/Wechat.png)
+[Email](mailto:lihuaqiu2025@gmail.com) / [GitHub](https://github.com/huaqlili) / [CV]({{ site.baseurl }}/assets/lihuaqiu_cv_202506.pdf) / [WeChat]({{ site.baseurl }}/images/Wechat.png)
 
 <br>
 
@@ -51,7 +51,7 @@ My research interests lie in computer vision and generative AI, with a particula
 
 # 📚 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='/images/ldrps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='{{ site.baseurl }}/images/ldrps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2507.00790" style="font-size: 22px; color: #483D8B; text-decoration: none">**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**</a><br>
@@ -63,7 +63,7 @@ My research interests lie in computer vision and generative AI, with a particula
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='/images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='{{ site.baseurl }}/images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2503.14535" style="font-size: 22px; color: #483D8B; text-decoration: none">**Interpretable Unsupervised Joint Denoising and Enhancement for Real-World Low-Light Scenarios**</a><br>
@@ -75,7 +75,7 @@ My research interests lie in computer vision and generative AI, with a particula
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/promptsid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='{{ site.baseurl }}/images/promptsid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2502.06432" style="font-size: 22px; color: #483D8B; text-decoration: none">**Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising**</a><br>
@@ -87,7 +87,7 @@ My research interests lie in computer vision and generative AI, with a particula
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/spatio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='{{ site.baseurl }}/images/spatio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32242" style="font-size: 22px; color: #483D8B; text-decoration: none">**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**</a><br>
@@ -99,7 +99,7 @@ My research interests lie in computer vision and generative AI, with a particula
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='/images/icme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='{{ site.baseurl }}/images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" style="font-size: 22px; color: #483D8B; text-decoration: none">**Measuring and Controlling the Spectral Bias in Self-Supervised Denoising**</a><br>
@@ -113,7 +113,7 @@ My research interests lie in computer vision and generative AI, with a particula
 
 # 📑 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/mmgenbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='{{ site.baseurl }}/images/mmgenbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2411.14062" style="font-size: 22px; color: #483D8B; text-decoration: none">**MMGenBench: Fully Automatically Evaluating LMMs from the Text-to-Image Generation Perspective**</a><br>
