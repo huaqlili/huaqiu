@@ -33,7 +33,7 @@ My research interests lie in computer vision and generative AI, with a particula
 
 # 💻 Experience
 
-- **09/2025 ~ Present**, Research Intern at TongYi Lab, AI Industry Research Institute (AIR), Alibaba Group.
+- **09/2025 ~ Present**, Research Intern at TongYi Lab, ATH, Alibaba Group.
 - **10/2024 ~ 07/2025**, Full-time Research Intern at Amap, Machine Learning R&D Department, Alibaba Group. Supervised by [Xiangxiang Chu](https://cxxgtxy.github.io/) and [Yong Wang](https://scholar.google.com/citations?hl=en&user=rAtlzLcAAAAJ).
 - **09/2023 ~ Present**, Pursuing Master's degree in Artificial Intelligence at Tsinghua University.
 - **09/2019 ~ 07/2023**, Earned Bachelor's degree in Engineering from Beihang University.
