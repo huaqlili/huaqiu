@@ -27,7 +27,7 @@ My research interests lie in computer vision and generative AI, with a particula
 
 **I am planning to commence my PhD studies in the ECE department at the Hong Kong University of Science and Technology (HKUST) in Fall 2026, under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).** 
 
-[Email](mailto:lihuaqiu2025@gmail.com) / [GitHub](https://github.com/huaqlili) / [CV]({{ site.baseurl }}/assets/lihuaqiu_cv_202506.pdf) / [WeChat]({{ site.baseurl }}/images/Wechat.png)
+[Email](mailto:lihuaqiu2025@gmail.com) / [GitHub](https://github.com/huaqlili) / [CV]({{ site.baseurl }}/assets/lihuaqiu_cv_202608.pdf) / [WeChat]({{ site.baseurl }}/images/Wechat.png)
 
 <br>
 
@@ -50,6 +50,18 @@ My research interests lie in computer vision and generative AI, with a particula
 <br>
 
 # 📚 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='{{ site.baseurl }}/images/echostyle.png' alt="EchoStyle video stylization results" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://echostyle2026.github.io/" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis**</a><br>
+<span style="font-size: 18px;">**Huaqiu Li**\*, Jiahao Wang\*, Sijia Cai†, Hualian Sheng, Bing Deng, Jieping Ye, Wenhan Luo†</span><br>
+<span style="font-size: 18px;">[**Project**](https://echostyle2026.github.io/)   [**Paper**](https://arxiv.org/abs/2606.25465)   [**Code**](https://github.com/HKUST-C4G/EchoStyle)   [**Model**](https://huggingface.co/youchun/echostyle)</span>
+
+<span style="font-size: 18px;">- We introduce EchoStyle, a scalable text-driven framework for high-fidelity video stylization of arbitrary-length videos. It combines a video-to-video architecture, the reverse-synthesized V-Style20k dataset, and init-follow-mode sliding-window inference to preserve style, motion, and temporal consistency.</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='{{ site.baseurl }}/images/ldrps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
