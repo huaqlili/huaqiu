@@ -18,40 +18,92 @@ redirect_from:
 
 # 🧑 About Me
 
-I am currently a **3rd-year** Master's student at [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/), majoring in Electronic Information (Artificial Intelligence) under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Previously, I earned my Bachelor's Degree in Aircraft Control and Information Engineering from Beihang University in Fall 2023.
+<div class="profile-intro" markdown="1">
 
-My research interests lie in computer vision and generative AI, with a particular focus on:
-* **Efficient Video Generation**
-* **Controllable Video Generation**
-* **Low-level Vision (Image & Video Restoration)**
+<div class="profile-status"><span class="status-dot" aria-hidden="true"></span>Incoming Ph.D. Student · HKUST ECE · Fall 2026</div>
 
-**I am planning to commence my PhD studies in the ECE department at the Hong Kong University of Science and Technology (HKUST) in Fall 2026, under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).** 
+I am an **incoming Ph.D. student** in the Department of Electronic and Computer Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), starting in Fall 2026 under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).
 
-[Email](mailto:lihuaqiu2025@gmail.com) / [GitHub](https://github.com/huaqlili) / [CV]({{ site.baseurl }}/assets/lihuaqiu_cv_202608.pdf) / [WeChat]({{ site.baseurl }}/images/Wechat.png)
+I received my **M.S. in Electronic Information (Artificial Intelligence)** from [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/) in July 2026, advised by [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Previously, I earned my bachelor's degree in Aircraft Control and Information Engineering from Beihang University in 2023.
+
+<div class="research-tags" aria-label="Research interests">
+  <span>Efficient Video Generation</span>
+  <span>Controllable Video Generation</span>
+  <span>Image &amp; Video Restoration</span>
+</div>
+
+<div class="profile-links">
+  <a class="profile-link" href="mailto:lihuaqiu2025@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
+  <a class="profile-link" href="https://github.com/huaqlili"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
+  <a class="profile-link" href="{{ site.baseurl }}/assets/lihuaqiu_cv_202608.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i>CV</a>
+  <a class="profile-link" href="{{ site.baseurl }}/images/Wechat.png"><i class="fab fa-weixin" aria-hidden="true"></i>WeChat</a>
+</div>
+
+</div>
 
 <br>
 
 # 💻 Experience
 
-- **09/2025 ~ Present**, Research Intern at TongYi Lab, ATH, Alibaba Group.
-- **10/2024 ~ 07/2025**, Full-time Research Intern at Amap, Machine Learning R&D Department, Alibaba Group. Supervised by [Xiangxiang Chu](https://cxxgtxy.github.io/) and [Yong Wang](https://scholar.google.com/citations?hl=en&user=rAtlzLcAAAAJ).
-- **09/2023 ~ Present**, Pursuing Master's degree in Artificial Intelligence at Tsinghua University.
-- **09/2019 ~ 07/2023**, Earned Bachelor's degree in Engineering from Beihang University.
+<div class="experience-list">
+
+<article class="experience-item">
+  <div class="experience-logo experience-logo--hkust"><img src="{{ site.baseurl }}/images/logo-hkust.png" alt="HKUST logo" loading="lazy"></div>
+  <div class="experience-content">
+    <div class="experience-heading"><div><h3>Incoming Ph.D. Student</h3><p>Hong Kong University of Science and Technology · ECE</p></div><time>Sep. 2026 · Incoming</time></div>
+    <p>Jointly supervised by Prof. <a href="https://whluo.github.io/">Wenhan Luo</a> and Prof. <a href="https://pingtan.people.ust.hk/index.html">Ping Tan</a>, focusing on efficient and controllable video generation.</p>
+  </div>
+</article>
+
+<article class="experience-item">
+  <div class="experience-logo experience-logo--tongyi"><img src="{{ site.baseurl }}/images/logo-tongyi.png" alt="Tongyi Lab logo" loading="lazy"></div>
+  <div class="experience-content">
+    <div class="experience-heading"><div><h3>Research Intern</h3><p>Tongyi Lab · ATH · Alibaba Group</p></div><time>Sep. 2025 — Present</time></div>
+    <p>Research on video generation, with an emphasis on model fine-tuning and efficient generation.</p>
+  </div>
+</article>
+
+<article class="experience-item">
+  <div class="experience-logo experience-logo--amap"><img src="{{ site.baseurl }}/images/logo-amap.png" alt="Amap logo" loading="lazy"></div>
+  <div class="experience-content">
+    <div class="experience-heading"><div><h3>Full-time Research Intern</h3><p>Amap · Machine Learning R&amp;D · Alibaba Group</p></div><time>Oct. 2024 — Jul. 2025</time></div>
+    <p>Supervised by <a href="https://cxxgtxy.github.io/">Xiangxiang Chu</a> and <a href="https://scholar.google.com/citations?hl=en&amp;user=rAtlzLcAAAAJ">Yong Wang</a>.</p>
+  </div>
+</article>
+
+<article class="experience-item">
+  <div class="experience-logo experience-logo--tsinghua"><img src="{{ site.baseurl }}/images/logo-tsinghua.svg" alt="Tsinghua University logo" loading="lazy"></div>
+  <div class="experience-content">
+    <div class="experience-heading"><div><h3>M.S. in Electronic Information</h3><p>Tsinghua University · Artificial Intelligence</p></div><time>Sep. 2023 — Jul. 2026</time></div>
+    <p>Graduated from Tsinghua SIGS under the supervision of Prof. <a href="https://www.sigs.tsinghua.edu.cn/whq/">Haoqian Wang</a>.</p>
+  </div>
+</article>
+
+<article class="experience-item">
+  <div class="experience-logo experience-logo--beihang"><img src="{{ site.baseurl }}/images/logo-beihang.png" alt="Beihang University logo" loading="lazy"></div>
+  <div class="experience-content">
+    <div class="experience-heading"><div><h3>Bachelor's Degree</h3><p>Beihang University · Aircraft Control and Information Engineering</p></div><time>Sep. 2019 — Jul. 2023</time></div>
+  </div>
+</article>
+
+</div>
 
 <br>
 
 # 🏆 Honors and Awards
 
-- **Hong Kong PhD Fellowship Scheme (HKPFS)**, Hong Kong University of Science and Technology, 2026.
-- **National Scholarship**, Tsinghua University, 2024-2025.
-- **Excellent Graduate** of Beijing & Beihang University, 2023.
-- **Multiple Merit Scholarships**, Beihang University, 2019-2023.
+<div class="award-grid">
+  <div class="award-item"><span>2026</span><div><strong>Hong Kong PhD Fellowship Scheme (HKPFS)</strong><small>Hong Kong University of Science and Technology</small></div></div>
+  <div class="award-item"><span>2025</span><div><strong>National Scholarship</strong><small>Tsinghua University</small></div></div>
+  <div class="award-item"><span>2023</span><div><strong>Excellent Graduate of Beijing &amp; Beihang University</strong></div></div>
+  <div class="award-item"><span>2019–23</span><div><strong>Multiple Merit Scholarships</strong><small>Beihang University</small></div></div>
+</div>
 
 <br>
 
 # 📚 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='{{ site.baseurl }}/images/echostyle.png' alt="EchoStyle video stylization results" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img class="paper-preview--echostyle" src='{{ site.baseurl }}/images/echostyle.png' alt="EchoStyle video stylization results" width="100%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://echostyle2026.github.io/" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis**</a><br>
@@ -59,6 +111,18 @@ My research interests lie in computer vision and generative AI, with a particula
 <span style="font-size: 18px;">[**Project**](https://echostyle2026.github.io/)   [**Paper**](https://arxiv.org/abs/2606.25465)   [**Code**](https://github.com/HKUST-C4G/EchoStyle)   [**Model**](https://huggingface.co/youchun/echostyle)</span>
 
 <span style="font-size: 18px;">- We introduce EchoStyle, a scalable text-driven framework for high-fidelity video stylization of arbitrary-length videos. It combines a video-to-video architecture, the reverse-synthesized V-Style20k dataset, and init-follow-mode sliding-window inference to preserve style, motion, and temporal consistency.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='{{ site.baseurl }}/images/up-zeroir.png' alt="UP-ZeroIR unified degradation modeling framework" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2605.24593" style="font-size: 22px; color: #483D8B; text-decoration: none">**Self-supervised Dynamic Heterogeneous Degradation Modeling for Unified Zero-Shot Image Restoration**</a><br>
+<span style="font-size: 18px;">Xiaowan Hu\*, Jing Yang\*, Henan Liu, **Huaqiu Li**, Mai Xu†</span><br>
+<span style="font-size: 18px;">[**CVF**](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Self-supervised_Dynamic_Heterogeneous_Degradation_Modeling_for_Unified_Zero-Shot_Image_Restoration_CVPR_2026_paper.pdf)   [**arXiv**](https://arxiv.org/abs/2605.24593)</span>
+
+<span style="font-size: 18px;">- We propose UP-ZeroIR, a self-supervised unified physical zero-shot restoration framework that models heterogeneous degradations as a homogeneous latent-space distribution. A dynamic quality-refinement strategy adaptively adjusts the diffusion trajectory for robust restoration across both single and mixed degradations.</span>
 
 </div>
 </div>

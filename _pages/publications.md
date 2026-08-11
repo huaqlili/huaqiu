@@ -10,7 +10,7 @@ author_profile: true
 Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../images/echostyle.png' alt="EchoStyle video stylization results" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img class="paper-preview--echostyle" src='../images/echostyle.png' alt="EchoStyle video stylization results" width="100%" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://echostyle2026.github.io/" style="font-size: 22px; color: #483D8B; text-decoration: none">**EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis**</a><br>
@@ -18,6 +18,18 @@ Publications
 <span style="font-size: 18px;">[**Project**](https://echostyle2026.github.io/)   [**Paper**](https://arxiv.org/abs/2606.25465)   [**Code**](https://github.com/HKUST-C4G/EchoStyle)   [**Model**](https://huggingface.co/youchun/echostyle)</span>
 
 <span style="font-size: 18px;">- We introduce EchoStyle, a scalable text-driven framework for high-fidelity video stylization of arbitrary-length videos. It combines a video-to-video architecture, the reverse-synthesized V-Style20k dataset, and init-follow-mode sliding-window inference to preserve style, motion, and temporal consistency.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/up-zeroir.png' alt="UP-ZeroIR unified degradation modeling framework" width="100%" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2605.24593" style="font-size: 22px; color: #483D8B; text-decoration: none">**Self-supervised Dynamic Heterogeneous Degradation Modeling for Unified Zero-Shot Image Restoration**</a><br>
+<span style="font-size: 18px;">Xiaowan Hu\*, Jing Yang\*, Henan Liu, **Huaqiu Li**, Mai Xu†</span><br>
+<span style="font-size: 18px;">[**CVF**](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Self-supervised_Dynamic_Heterogeneous_Degradation_Modeling_for_Unified_Zero-Shot_Image_Restoration_CVPR_2026_paper.pdf)   [**arXiv**](https://arxiv.org/abs/2605.24593)</span>
+
+<span style="font-size: 18px;">- We propose UP-ZeroIR, a self-supervised unified physical zero-shot restoration framework that models heterogeneous degradations as a homogeneous latent-space distribution. A dynamic quality-refinement strategy adaptively adjusts the diffusion trajectory for robust restoration across both single and mixed degradations.</span>
 
 </div>
 </div>
