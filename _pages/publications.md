@@ -37,11 +37,11 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/ldrps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2503.14535" style="font-size: 22px; color: #483D8B; text-decoration: none">**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**</a><br>
+<a href="{{ site.baseurl }}/papers/ld-rps/" style="font-size: 22px; color: #483D8B; text-decoration: none">**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**</a><br>
 <span style="font-size: 18px;">**Huaqiu Li**, Yong Wang†, Tongwen Huang, Hailang Huang, Haoqian Wang†, Xiangxiang Chu</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2507.00790)   [**Code**](https://github.com/AMAP-ML/LD-RPS)</span>
+<span style="font-size: 18px;">[**Project**]({{ site.baseurl }}/papers/ld-rps/)   [**ICCV**](https://openaccess.thecvf.com/content/ICCV2025/html/Li_LD-RPS_Zero-Shot_Unified_Image_Restoration_via_Latent_Diffusion_Recurrent_Posterior_ICCV_2025_paper.html)   [**Paper**](https://arxiv.org/abs/2507.00790)   [**Code**](https://github.com/huaqlili/LD-RPS)</span>
 
-<span style="font-size: 18px;">- We propose a novel, dataset-free, and unified approach through recurrent posterior sampling utilizing a pretrained latent diffusion model. Our method incorporates the multimodal understanding model to provide sematic priors for the generative model under a task-blind condition.</span>
+<span style="font-size: 18px;">- We propose a dataset-free, task-blind unified image restoration approach based on recurrent posterior sampling with a pretrained latent diffusion model and semantic priors from a multimodal understanding model.</span>
 
 </div>
 </div>
@@ -49,9 +49,9 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2503.14535" style="font-size: 22px; color: #483D8B; text-decoration: none">**Interpretable Unsupervised Joint Denoising and Enhancement for Real-World low-light Scenarios**</a><br>
+<a href="{{ site.baseurl }}/papers/interpretable-low-light/" style="font-size: 22px; color: #483D8B; text-decoration: none">**Interpretable Unsupervised Joint Denoising and Enhancement for Real-World Low-Light Scenarios**</a><br>
 <span style="font-size: 18px;">**Huaqiu Li**, Xiaowan Hu, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Openreview**](https://openreview.net/forum?id=PVHoELf5UN&noteId=tWR79MUc4B)   [**Paper**](https://arxiv.org/abs/2503.14535)   [**Code**](https://github.com/huaqlili/unsupervised-light-enhance-ICLR2025)</span>
+<span style="font-size: 18px;">[**Project**]({{ site.baseurl }}/papers/interpretable-low-light/)   [**ICLR**](https://proceedings.iclr.cc/paper_files/paper/2025/hash/6264f71a529a6d83a7a5dd3530f4f321-Abstract-Conference.html)   [**OpenReview**](https://openreview.net/forum?id=PVHoELf5UN)   [**Paper**](https://arxiv.org/abs/2503.14535)   [**Code**](https://github.com/huaqlili/unsupervised-light-enhance-ICLR2025)</span>
 
 <span style="font-size: 18px;">- We propose an interpretable, zero-reference joint denoising and low-light enhancement framework tailored for real-world scenarios. Our method derives a training strategy based on paired sub-images with varying illumination and noise levels, grounded in physical imaging principles and retinex theory.</span>
 
@@ -61,11 +61,11 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='../images/promptsid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2502.06432" style="font-size: 22px; color: #483D8B; text-decoration: none">**Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising**</a><br>
+<a href="{{ site.baseurl }}/papers/prompt-sid/" style="font-size: 22px; color: #483D8B; text-decoration: none">**Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising**</a><br>
 <span style="font-size: 18px;">**Huaqiu Li**\*, Wang Zhang\*, Xiaowan Hu, Tao Jiang, Zikang Chen, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2502.06432)   [**Code**](https://github.com/huaqlili/Prompt-SID)</span>
+<span style="font-size: 18px;">[**Project**]({{ site.baseurl }}/papers/prompt-sid/)   [**AAAI**](https://ojs.aaai.org/index.php/AAAI/article/view/32500)   [**Paper**](https://arxiv.org/abs/2502.06432)   [**Code**](https://github.com/huaqlili/Prompt-SID)</span>
 
-<span style="font-size: 18px;">-  In this paper, we introduce Prompt-SID, a prompt-learning-based single image denoising framework that emphasizes preserving of structural details. This approach is trained in a self-supervised manner using downsampled image pairs.</span>
+<span style="font-size: 18px;">- Prompt-SID is a self-supervised single-image denoising framework that preserves structural details by learning a latent structural representation from the noisy image; “prompt” here does not mean a natural-language prompt.</span>
 
 </div>
 </div>
