@@ -93,18 +93,3 @@ Publications
 
 </div>
 </div>
-
-Preprints
-======
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='../images/mmgenbench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2411.14062" style="font-size: 22px; color: #483D8B; text-decoration: none">**MMGenBench: Fully Automatically Evaluating LMMs from the Text-to-Image Generation Perspective**</a><br>
-<span style="font-size: 18px;">Hailang Huang, Yong Wang, Zixuan Huang, **Huaqiu Li**, Tongwen Huang, Xiangxiang Chu, Richong Zhang†</span><br>
-<span style="font-size: 18px;">[**Paper**](https://arxiv.org/abs/2411.14062)   [**Code**](https://github.com/lerogo/MMGenBench)</span>
-
-<span style="font-size: 18px;">-  We propose the MMGenBench-Pipeline, a straightforward and fully automated evaluation pipeline. This involves generating textual descriptions from input images, using these descriptions to create auxiliary images via text-to-image generative models, and then comparing the original and generated images.</span>
-
-</div>
-</div>
