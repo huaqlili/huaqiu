@@ -18,27 +18,17 @@ redirect_from:
 
 # 🧑 About Me
 
-<div class="profile-intro" markdown="1">
-
-<div class="profile-status"><span class="status-dot" aria-hidden="true"></span>Incoming Ph.D. Student · HKUST ECE · Fall 2026</div>
-
-I am an **incoming Ph.D. student** in the Department of Electronic and Computer Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), starting in Fall 2026 under the joint supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).
+I am a **first-year Ph.D. student** in the Department of Electronic and Computer Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), jointly supervised by Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Ping Tan](https://pingtan.people.ust.hk/index.html).
 
 I received my **M.S. in Electronic Information (Artificial Intelligence)** from [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/) in July 2026, advised by [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). Previously, I earned my bachelor's degree in Aircraft Control and Information Engineering from Beihang University in 2023.
 
-<div class="research-tags" aria-label="Research interests">
-  <span>Efficient Video Generation</span>
-  <span>Controllable Video Generation</span>
-  <span>Image &amp; Video Restoration</span>
-</div>
+My research interests include **efficient video generation**, **controllable video generation**, and **image and video restoration**.
 
 <div class="profile-links">
   <a class="profile-link" href="mailto:lihuaqiu2025@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
   <a class="profile-link" href="https://github.com/huaqlili"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
   <a class="profile-link" href="{{ site.baseurl }}/assets/lihuaqiu_cv_202608.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i>CV</a>
   <a class="profile-link" href="{{ site.baseurl }}/images/Wechat.png"><i class="fab fa-weixin" aria-hidden="true"></i>WeChat</a>
-</div>
-
 </div>
 
 <br>
@@ -50,7 +40,7 @@ I received my **M.S. in Electronic Information (Artificial Intelligence)** from 
 <article class="experience-item">
   <div class="experience-logo experience-logo--hkust"><img src="{{ site.baseurl }}/images/logo-hkust.png" alt="HKUST logo" loading="lazy"></div>
   <div class="experience-content">
-    <div class="experience-heading"><div><h3>Incoming Ph.D. Student</h3><p>Hong Kong University of Science and Technology · ECE</p></div><time>Sep. 2026 · Incoming</time></div>
+    <div class="experience-heading"><div><h3>Ph.D. Student</h3><p>Hong Kong University of Science and Technology · ECE</p></div><time>Sep. 2026 — Present</time></div>
     <p>Jointly supervised by Prof. <a href="https://whluo.github.io/">Wenhan Luo</a> and Prof. <a href="https://pingtan.people.ust.hk/index.html">Ping Tan</a>, focusing on efficient and controllable video generation.</p>
   </div>
 </article>
